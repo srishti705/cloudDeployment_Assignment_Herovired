@@ -135,6 +135,40 @@ Load balancer distributes traffic efficiently across instances.
 <img width="624" height="324" alt="image" src="https://github.com/user-attachments/assets/3efb36e2-7544-4cc1-9c73-e40bce89e255" />
 
 
+## 🔁 Scaling the Application
+
+To ensure **high availability and scalability**, the following steps were implemented:
+
+### 🖥️ 1️⃣ Created an AMI
+- Generated an **Amazon Machine Image (AMI)** from the configured EC2 instance.
+- This allowed quick replication of identical application servers.
+
+### 🚀 2️⃣ Launched Multiple EC2 Instances
+- Deployed multiple EC2 instances using the created AMI.
+- Ensured consistent configuration across all servers.
+
+### ⚖️ 3️⃣ Configured Application Load Balancer
+- Created an **Application Load Balancer (ALB)**.
+- Configured listener on **Port 80 (HTTP)**.
+- Attached instances to a target group.
+
+### 🎯 4️⃣ Added Instances to Target Group
+- Registered all EC2 instances under the same target group.
+- Enabled **health checks** to monitor server status.
+
+---
+
+### ✅ Result
+
+The Load Balancer now distributes incoming traffic efficiently across multiple instances, ensuring:
+
+- ✔ High Availability  
+- ✔ Fault Tolerance  
+- ✔ Better Performance  
+- ✔ Zero Single Point of Failure  
+
+
+
 
 
 
