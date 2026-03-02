@@ -17,6 +17,49 @@ DNS & Security: Cloudflare
 Repository Source:
 🔗 https://github.com/UnpredictablePrashant/TravelMemory
 
+
+<h1 align="center" style="color:#2E86C1;">
+🌍 Travel Memory – AWS Deployment
+</h1>
+
+<p align="center">
+<b>Full Stack MERN Application Deployed on AWS EC2</b><br>
+Load Balanced • Reverse Proxied • Custom Domain Connected
+</p>
+
+---
+
+<p align="center">
+
+![AWS](https://img.shields.io/badge/AWS-EC2-orange?style=for-the-badge)
+![Node](https://img.shields.io/badge/Node.js-Backend-green?style=for-the-badge)
+![React](https://img.shields.io/badge/React-Frontend-blue?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-Database-brightgreen?style=for-the-badge)
+![Nginx](https://img.shields.io/badge/Nginx-Reverse_Proxy-darkgreen?style=for-the-badge)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-DNS-orange?style=for-the-badge)
+
+</p>
+
+---
+
+## 📌 <span style="color:#1F618D;">Project Overview</span>
+
+The **Travel Memory** application is a MERN stack project deployed on an Amazon EC2 instance.
+
+This deployment includes:
+
+- 🟢 Node.js Backend
+- ⚛️ React Frontend
+- 🍃 MongoDB Atlas Database
+- 🌐 Nginx Reverse Proxy
+- 🔁 AWS Load Balancer
+- ☁️ Cloudflare DNS Integration
+
+---
+
+## 🏗️ <span style="color:#AF601A;">Deployment Architecture</span>
+
+
 Cloning Travel Memory Repo:
 
 <img width="621" height="265" alt="image" src="https://github.com/user-attachments/assets/d9c8263a-b1b3-4b31-9180-228450b11677" />
