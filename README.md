@@ -9,4 +9,16 @@ Cloning Travel Memory Repo:
 
 
 ## Checking Test 
+
+<img width="623" height="235" alt="image" src="https://github.com/user-attachments/assets/4e27e2f5-e480-45ea-b68a-87d6e415fb0a" />
+
+
+<img width="629" height="303" alt="image" src="https://github.com/user-attachments/assets/854dc4e0-6a5b-4323-a73a-24f3dc65ee51" />
+
+
+Changing port  in URL
+
+
+
+
  
